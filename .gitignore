@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+*.bin
+*.o
+*.out
+my_tools/
+build-*/
+binutils*/
+gcc*/
+gdb*/
+*.tar.gz
+*.tar.xz
+*.iso
